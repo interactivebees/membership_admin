@@ -1,0 +1,56 @@
+[16-Sep-2023 09:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Process\proc_get_status() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php:1345
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(367): Symfony\Component\Process\Process->updateStatus(false)
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(252): Symfony\Component\Process\Process->start(Object(Closure), Array)
+#2 phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/ProcessExecutor.php(134): Symfony\Component\Process\Process->run(Object(Closure))
+#3 phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/ProcessExecutor.php(76): Composer\Util\ProcessExecutor->doExecute(Array, '/home/cahoitbk/...', false, NULL)
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Version/VersionGuesser.php(139): Composer\Util\ProcessExecutor->execute(Array, NULL, '/home/cahoitbk/...')
+#5 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Version/VersionGuesser.php(78): Composer\Package\Version\VersionGuesser->guessGitVersion(Array, '/home/cahoitbk/...')
+#6 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Loader/RootPackageLoader.php(87): Composer\Package\Version\VersionGuesser->guessVersion(Array, '/home/cahoitbk/...')
+#7 phar:///opt/cpanel/composer/bin/composer/src/Composer/Factory.php(385): Composer\Package\Loader\RootPackageLoader->load(Array, 'Composer\\Packag...', '/home/cahoitbk/...')
+#8 phar:///opt/cpanel/composer/bin/composer/src/Composer/Factory.php(625): Composer\Factory->createComposer(Object(Composer\IO\ConsoleIO), Array, true, '/home/cahoitbk/...', true, false)
+#9 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(503): Composer\Factory::create(Object(Composer\IO\ConsoleIO), NULL, true, false)
+#10 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(448): Composer\Console\Application->getComposer(false, true)
+#11 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(393): Composer\Console\Application->hintCommonErrors(Object(Error), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(171): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(139): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar:///opt/cpanel/composer/bin/composer/bin/composer(88): Composer\Console\Application->run()
+#15 /opt/cpanel/composer/bin/composer(29): require('phar:///opt/cpa...')
+#16 {main}
+  thrown in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php on line 1345
+[16-Sep-2023 09:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Process\proc_get_status() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php:1345
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(868): Symfony\Component\Process\Process->updateStatus(false)
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(920): Symfony\Component\Process\Process->isRunning()
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(218): Symfony\Component\Process\Process->stop(0)
+#3 [internal function]: Symfony\Component\Process\Process->__destruct()
+#4 {main}
+  thrown in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php on line 1345
+[04-Dec-2023 09:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Process\proc_get_status() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php:1345
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(367): Symfony\Component\Process\Process->updateStatus(false)
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(252): Symfony\Component\Process\Process->start(Object(Closure), Array)
+#2 phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/ProcessExecutor.php(134): Symfony\Component\Process\Process->run(Object(Closure))
+#3 phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/ProcessExecutor.php(76): Composer\Util\ProcessExecutor->doExecute(Array, '/home/cahoitbk/...', false, NULL)
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Version/VersionGuesser.php(139): Composer\Util\ProcessExecutor->execute(Array, NULL, '/home/cahoitbk/...')
+#5 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Version/VersionGuesser.php(78): Composer\Package\Version\VersionGuesser->guessGitVersion(Array, '/home/cahoitbk/...')
+#6 phar:///opt/cpanel/composer/bin/composer/src/Composer/Package/Loader/RootPackageLoader.php(87): Composer\Package\Version\VersionGuesser->guessVersion(Array, '/home/cahoitbk/...')
+#7 phar:///opt/cpanel/composer/bin/composer/src/Composer/Factory.php(385): Composer\Package\Loader\RootPackageLoader->load(Array, 'Composer\\Packag...', '/home/cahoitbk/...')
+#8 phar:///opt/cpanel/composer/bin/composer/src/Composer/Factory.php(625): Composer\Factory->createComposer(Object(Composer\IO\ConsoleIO), Array, true, '/home/cahoitbk/...', true, false)
+#9 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(503): Composer\Factory::create(Object(Composer\IO\ConsoleIO), NULL, true, false)
+#10 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(448): Composer\Console\Application->getComposer(false, true)
+#11 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(393): Composer\Console\Application->hintCommonErrors(Object(Error), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#12 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(171): Composer\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#13 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(139): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#14 phar:///opt/cpanel/composer/bin/composer/bin/composer(88): Composer\Console\Application->run()
+#15 /opt/cpanel/composer/bin/composer(29): require('phar:///opt/cpa...')
+#16 {main}
+  thrown in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php on line 1345
+[04-Dec-2023 09:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Process\proc_get_status() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php:1345
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(868): Symfony\Component\Process\Process->updateStatus(false)
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(920): Symfony\Component\Process\Process->isRunning()
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php(218): Symfony\Component\Process\Process->stop(0)
+#3 [internal function]: Symfony\Component\Process\Process->__destruct()
+#4 {main}
+  thrown in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/process/Process.php on line 1345
