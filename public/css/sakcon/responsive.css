@@ -1,0 +1,399 @@
+    @media only screen and (max-width:1199px) {
+        .container {
+            width: 96%;
+        }
+        .heading {
+            font-size: 45px;
+            line-height: 50px;
+        }
+        .small_heading br {
+            display: none;
+        }
+        .con_add_list li p br {
+            display: none;
+        }
+        .main_container .card .card-body {
+            padding: 0 50px;
+        }
+        .d-form-outer {
+            padding: 0;
+            margin-bottom: 18px;
+        }
+    }
+    
+    @media only screen and (max-width:1023px) {
+        .inner_banner h1 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .main_container .sp_checkbox_outer .form-check {
+            width: 29%;
+        }
+        .con_add_list li .con_details {
+            width: 78%;
+        }
+    }
+    
+    @media only screen and (max-width:991px) {
+        .navbar-light .navbar-toggler {
+            outline: none;
+            width: 35px;
+            height: 35px;
+            padding: 0;
+            border: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .navbar-light .navbar-toggler .bar {
+            display: inline-block;
+            background: #ab2c63;
+            height: 4px;
+            width: 100%;
+            border: 1px solid #ab2c63;
+        }
+        .navbar-light .navbar-toggler .bar:nth-of-type(even) {
+            margin: 5px 0;
+        }
+        .navbar-collapse {
+            position: absolute;
+            right: -4%;
+            top: 79px;
+            width: 280px;
+            background: rgb(255, 255, 255);
+            box-shadow: 0px 4px 10px rgb(0 0 0 / 27%);
+            border-radius: 1px;
+            z-index: 99;
+        }
+        header .navbar .navbar-nav {
+            padding: 10px 0;
+        }
+        header .navbar .navbar-nav li.nav-item {
+            margin: 0 auto 5px;
+            width: 90%;
+            border-bottom: 1px solid #ab2c63;
+        }
+        header .navbar .navbar-nav li.nav-item:last-child {
+            border: none;
+        }
+        header .navbar .navbar-nav .nav-link {
+            padding: 6px 15px;
+            font-weight: 400;
+            letter-spacing: 0.5px;
+            color: #000;
+        }
+    }
+    
+    @media only screen and (max-width:959px) {
+        .nominate_notice .left p br {
+            display: none;
+        }
+        .heading {
+            font-size: 40px;
+            line-height: 45px;
+        }
+        .small_heading {
+            font-size: 25px;
+            line-height: 30px;
+        }
+        .thank_you_page .inner_banner h1 {
+            font-size: 70px;
+            line-height: 80px;
+        }
+        .contact_sec .left {
+            width: 45%;
+            padding: 0;
+        }
+        .contact_sec .right {
+            width: 47%;
+            padding: 25px;
+        }
+    }
+    
+    @media only screen and (max-width:767px) {
+        .heading {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 36px;
+            line-height: 40px;
+        }
+        .heading br {
+            display: none;
+        }
+        .heading span {
+            display: inline-block;
+            font-weight: 300;
+        }
+        .small_heading {
+            font-size: 18px;
+            line-height: 23px;
+        }
+        .link {
+            margin: 0 auto !important;
+            text-align: center;
+            width: 25%;
+        }
+        .nominate_notice {
+            width: 90%;
+            margin: 20px auto;
+        }
+        .nominate_notice .left {
+            width: 100%;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .nominate_notice .left p {
+            font-size: 16px;
+            line-height: 22px;
+        }
+        .nominate_notice .right {
+            width: 100%;
+            text-align: center;
+        }
+        .caho_central:before,
+        .caho_central:after,
+        .healthcare_institution:before,
+        .caho_diagnostic_centre:before,
+        .caho_diagnostic_centre:after,
+        .caho_quality_professionals:before,
+        .contact_sec:after {
+            display: none;
+        }
+        .caho_central .width_20,
+        .caho_central .width_80,
+        .healthcare_institution .width_20,
+        .healthcare_institution .width_80,
+        .caho_diagnostic_centre .width_20,
+        .caho_diagnostic_centre .width_80,
+        .caho_quality_professionals .width_20,
+        .caho_quality_professionals .width_80,
+        .term_condition,
+        .contact_sec {
+            padding: 15px;
+        }
+        .healthcare_institution .width_20,
+        .caho_quality_professionals .width_20 {
+            order: 1;
+        }
+        .healthcare_institution .width_80,
+        .caho_quality_professionals .width_80 {
+            order: 2;
+            background: rgba(0, 0, 0, 0.01);
+        }
+        .healthcare_institution,
+        .caho_diagnostic_centre,
+        .caho_quality_professionals,
+        .term_condition {
+            margin-top: 20px;
+        }
+        .sc_list.flex {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+        }
+        ul.foot_add {
+            width: 90%;
+            margin: 0 auto;
+        }
+        .footer .foot_add_sec {
+            padding: 10px 0;
+        }
+        .footer .foot_add li {
+            margin-bottom: 10px;
+            width: 31%;
+            margin: 0% 1%;
+        }
+        .footer .foot_add li.f_address {
+            padding: 70px 0 0px 0;
+            background-position: 50% 29%;
+            text-align: center;
+        }
+        .footer .foot_add li.f_contact {
+            padding: 70px 0 0px 0;
+            background-position: 50% 40%;
+            text-align: center;
+        }
+        .footer .foot_add li.f_email {
+            padding: 70px 0 0px 0;
+            background-position: 50% 40%;
+            text-align: center;
+        }
+        .copyright_section .text-left,
+        .copyright_section .text-right {
+            text-align: center !important;
+        }
+        .inner_banner h1 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .main_container .card .card-body {
+            padding: 30px;
+        }
+        .form-group {
+            width: 100%;
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            margin-bottom: 0;
+        }
+        .form-group input,
+        .form-group textarea,
+        .file_upload>.upfile1 {
+            height: 35px;
+        }
+        .main_container .sp_checkbox_outer .form-check {
+            width: 45%;
+        }
+        .form-group.no-border label {
+            margin-bottom: 10px;
+        }
+        .form-group.w-75.no-border {
+            width: 100% !important;
+        }
+        .gc_page {
+            padding-bottom: 10px !important;
+        }
+        .inner_banner .banner_txt {
+            padding: 80px 50px;
+        }
+        .thank_you_page .inner_banner h1 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .contact_sec .left {
+            width: 100%;
+        }
+        .contact_sec .right {
+            width: 100%;
+            margin-top: 30px;
+        }
+        .con_add_list li .con_details {
+            width: 86%;
+            padding-bottom: 15px;
+            margin-left: 20px;
+        }
+        .d-form-outer .d_form_left, .d-form-outer .d_form_right {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .d-form-outer {
+            margin-bottom: 0;
+        }
+        .d-form-outer h3 {
+            font-size: 18px;
+        }
+    }
+    
+    @media only screen and (max-width:599px) {
+        .inner_banner h1 {
+            font-size: 25px;
+            line-height: 30px;
+        }
+        .inner_banner h1 br {
+            display: none;
+        }
+        .heading {
+            font-size: 30px;
+            line-height: 35px;
+        }
+        .link {
+            width: 35%;
+        }
+        .bottom_sec .flex {
+            align-items: center;
+            flex-direction: column;
+        }
+        .bottom_sec .left {
+            margin-bottom: 20px;
+        }
+        .main_container .sp_checkbox_outer .form-check {
+            width: 100%;
+            margin-right: 0;
+        }
+        .inner_banner .banner_txt {
+            padding: 20px;
+        }
+        .subs_feedback_section .subscribe_part h5,
+        .subs_feedback_section .feedback_part .sub_heading {
+            font-size: 18px;
+            line-height: 24px;
+        }
+        ul.foot_add {
+            width: 90%;
+            margin: 0 auto;
+            padding: 10px 0;
+        }
+        .footer .foot_add li.f_email,
+        .footer .foot_add li.f_contact,
+        .footer .foot_add li.f_address {
+            padding: 15px 10px 15px 60px;
+            background-position: 5% 44%;
+            width: 100%;
+            margin-bottom: 15px;
+            box-shadow: 0px 0px 12px rgb(0 0 0 / 6%);
+            text-align: left;
+        }
+        /*14-6-21*/
+        .main_container .card .btn-link {
+            padding: 10px 20px;
+        }
+        .main_container .card .btn-link h5 {
+            font-size: 18px;
+        }
+        .main_container .card .btn-link.collapsed:after {
+            font-size: 30px;
+        }
+        .main_container .card .card-body {
+            padding: 20px 20px;
+        }
+    }
+    
+    @media only screen and (max-width:479px) {
+        .heading {
+            font-size: 25px;
+            line-height: 33px;
+        }
+        .sc_list li {
+            width: 100% !important;
+        }
+        .link {
+            width: 55%;
+        }
+        .small_heading {
+            text-align: center;
+            width: 100%;
+        }
+        .small_heading span {
+            margin-left: 0px;
+            display: block;
+        }
+        .thank_you_page .inner_banner h1 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .thank_you_page .inner_banner p {
+            font-size: 15px;
+            line-height: 20px;
+        }
+        .thank_you_page .inner_banner p br {
+            display: none;
+        }
+        .con_add_list li {
+            margin-bottom: 15px;
+            flex-direction: column;
+            text-align: center;
+        }
+        .con_add_list li img {
+            margin: 0px auto 10px;
+        }
+        .con_add_list li .con_details {
+            width: 100%;
+            padding-bottom: 15px;
+            margin-left: 0;
+        }
+        .container {
+            width: 100%;
+        }
+    }
+    
+    @media only screen and (max-width:359px) {}

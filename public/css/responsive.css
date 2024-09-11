@@ -1,0 +1,979 @@
+@media screen and (max-width:1150px){
+    .heading {       
+        font-size: 45px;
+        line-height: 45px;
+        margin: 15px 0;
+    }
+    .light-text {
+        font-size: 28px;        
+        margin-bottom: 5px;
+    }
+    .banner .owl-nav {
+        max-width: 96%;
+    }
+    .news-anoucment {        
+        position: relative;        
+    }
+    .introduction .text-center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .introduction h2 {
+        margin-top: 0;
+        font-size: 38px;
+    }
+    .ab-left {
+        width: 42%;        
+    }
+    .ab-right {
+        width: 55%;       
+    }
+    .membership .container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .mem-img {
+        width: 45%;
+        margin-left: -3%;       
+    }
+    .mem-img img {
+        height: 100%;
+    }
+    .membersh {
+        width: 55%;
+        float: right;
+        padding: 15px 0 30px;
+    }
+    .mbg {       
+        width: 105%;       
+        margin-left: -3%;
+    }
+    .caho-acadamy::before{
+        display: none;
+    }
+    .an-left, .partner-slider{
+        width: 36%;
+    }
+    .an-center{
+        width: 27%;
+    }
+    .partner-slider{
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .alcent {        
+        padding: 0 20px;
+    }
+    .aw-left,.know-right {
+        width: 100%;      
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .ab-rightaward,.know-left {
+        width: 100%;
+        margin-right: 0;        
+        margin-bottom: 30px;
+    }    
+    .know-left{
+        margin-left: 0;
+        order: 1;
+        margin: 15px 0 30px;
+    }
+    .know-left ul {
+        margin: 0;
+        padding: 20px;
+        display: flex;
+    }
+    .know-left ul li {
+        width: 49%;
+    }
+    .ab-rightaward img,.know-left img {
+        width: 100%;
+    }
+    .know-right ul {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .know-right ul li a {
+        margin-right: 30px;
+    }
+    .media {
+        width: 48%;       
+    }
+    .news {
+        width: 48%;
+        padding-left: 20px;
+    }
+    .news-txt {       
+        margin: -21px 0 0 0px;
+        position: relative;
+        width: 100%;
+    }
+    .collebration {
+        width: 48%;       
+    }
+    .test-left {
+        width: 48%;
+        padding-top: 42px;
+    }
+    .cahonewl {
+        width: 48%;
+        padding-top: 20px;
+    }
+    .feed-back {
+        width: 48%;       
+    }
+    .about-page .who-we-are .left {
+        max-width: 48%;
+    }
+    .about-page .who-we-are .right {
+        max-width: 48%;
+    }
+    /* .patron-sec .right .owl-next {
+        right: 0;
+        left: auto;
+    } */
+    .contact-top .left {
+        width: 100%;
+    }
+    .contact-top:after{
+        display: none;
+    }
+    .contact-top .right {
+        width: 100%;
+        background: #fff;
+        padding: 20px;
+        box-shadow: 0 0 15PX rgb(0 0 0 / 20%);
+        margin-top: 50px;
+    }
+    .fees li h5 {       
+        font-size: 20px;     
+    }
+    .fees li h4 {
+        font-size: 30px;      
+    }
+    .inner-banner-sec .container .breadcrumb {       
+        width: 100%;
+    }
+    .banner-txt {       
+        width: 100%;       
+    }
+    .banner-txt h1 {        
+        margin-top: 21px;
+        font-size: 30px;
+    }
+    .trainded-slider .slick-next, .feedback .slick-next {       
+        right: 0;      
+    }
+    .trainded-slider .slick-prev, .feedback .slick-prev {       
+        left: 0;
+    }
+    .fees li {       
+        margin: 1%;
+        width: 30%;
+    }
+    a.register {       
+        margin-top: 25px;      
+    }
+    .res-scroll {
+        width: 100%;
+        overflow: auto;
+    }
+    .wtab li {
+        width: 260px;       
+    }
+    ul.wtab {
+        width: 1072px;
+    }    
+    .interdatdetail , section.learning-obj {      
+        padding: 35px 0;      
+    }
+}
+@media screen and (max-width:1024px) {
+    .login-section .col-lg-5{
+        padding-top: 0 !important;
+        padding-right: 15px !important;
+    }
+    .login-section .row{
+        justify-content: center;
+    }
+    .head-title-login{
+        font-size: 30px !important;
+    }
+    
+}    
+
+@media screen and (max-width:800px) {
+    .menu-sec .flex-view{
+        display: none;
+    }
+    .menu-sec {
+        width: 48%;       
+    }
+    .hemburger-menu {
+        align-self: center;
+        position: absolute;
+        right: 20px;
+    }
+    .menu-sec .button {
+        align-self: center;
+        position: absolute;
+        right: 88px;
+    }
+    .banner-sec .container {
+        position: relative;
+        left: 0;
+        right: 0;
+        top: 50%;
+        transform: none;
+    }
+    .banner-sec .image {
+        width: 48%;
+        float: right;
+    }
+    .banner-sec .inner-text {
+        width: 48%;
+    }
+    .banner a{
+        float: right;
+    }
+    .test-left {
+        width: 100%;      
+        padding: 37px;
+    }
+    .collebration {
+        width: 100%;
+        margin: 0;
+    }
+    .test-left .owl-prev {
+        left: 50px;
+        top: auto;
+        bottom: -67px;
+        background-color: #f9f0f5;
+    }
+    .test-left .owl-next {
+        left: 0;
+        top: auto;
+        bottom: -67px;
+        background-color: #f9f0f5;
+    }
+    .introduction{
+        position: relative;
+    }
+    .news-anoucment h3 {
+        width: 215px;
+    }
+    .news-anoucment p{
+        width: calc(100% - 250px);
+    }
+    .ab-left {
+        width: 100%;
+    }
+    .ab-right {
+        width: 100%;
+        background: #effbfb;
+        margin-left: -4%;
+        padding-left: 4%;
+        padding: 4%;
+    }
+    .abr h3 {
+        margin: 0;
+        font-size: 35px;
+    }
+    .membership .container {       
+        flex-wrap: wrap;
+    }
+    .membersh {
+        width: 100%;
+        float: right;
+        padding: 15px 0 30px;
+    }
+    .mem-img {
+        width: 100%;
+        margin-left: 0;
+    }
+    .an-left, .partner-slider {
+        width: 100%;
+    }
+    .an-center {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    .heading {
+        font-size: 32px;     
+    }
+    .cahonewl {
+        width: 100%;
+        padding-top: 20px;
+        background: #9e509c;
+    }
+    .feed-back {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .patron-sec .right {
+        width: 100%;        
+    }
+    .heading.small {
+        font-size: 35px;
+    }
+    .patron-sec:before {       
+        width: 100%;      
+    }
+    .patron-sec .left {
+        width: 100%;
+        padding: 28px 0;
+    }
+    .governing-commitee-sec .member-sec .bottom h4 {
+        margin: 0;
+        font-size: 21px;
+    }
+    .governing-commitee-sec .tabings-link a{
+        width: 32%;
+    }
+    .governing-commitee-sec .tabings-link a{
+        line-height: normal;
+    }
+    .governing-commitee-sec .tabing-link a {
+        padding: 0;
+        display: inline-block;
+        position: relative;
+        margin-right: 60px;
+        font-weight: 700;
+        width: 16%;
+        margin: 0;
+        text-align: center;
+        padding: 27px 0;
+    }
+    .slidemenu ul {
+        padding: 0 30px;
+        margin-top: 34px;
+    }
+    .slidemenu ul ul{
+        margin-top: 0;
+    }
+    .slidemenu{
+        width: 100%;
+    }
+    .slick-next {       
+        right: 0;
+    }
+    .slick-prev {     
+        left: 0px;      
+    }
+    .modules-accrding h3 {       
+        font-size: 20px;      
+        padding-right: 70px;
+    }
+    .modules-accrding h3:after {       
+        top: 21px;
+        transition: all ease 0.6s;
+        background-size: 30px !important;
+    }
+    .knodl-part:before{
+        display: none;
+    }
+    .login-section .col-lg-5{
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+    .login-image{
+        display: none;
+    }
+   
+}
+@media screen and (max-width:750px)
+{
+    .logo {
+        width: 44%;
+    }
+    .hemburger-menu {        
+        right: 0;
+    }
+    .menu-sec .button {
+        align-self: center;
+        position: absolute;
+        right: 64px;
+        font-size: 12px;
+        padding: 0px;
+    }
+    .banner-sec .image {
+        width: 100%;
+        float: left;
+        margin-bottom: 22px;
+    }
+    .banner-sec .inner-text {
+        width: 100%;
+        padding: 8px;
+        margin: 54px 0;
+    }
+    .banner-sec .inner-text{
+        margin-top: 0;
+    }
+    .banner-sec {        
+        top: 80px;       
+    }
+    .news-anoucment h3 {
+        width: 100%;
+    }
+    .news-anoucment p {
+        width: 100%;
+        padding-bottom: 14px;
+        background: none;
+    }
+    .news-anoucment:after {
+        background: #9a1b52;
+        content: "";
+        width: 12px;
+        left: 0;
+        position: absolute;
+        top: 0;
+        height: 43px;
+    }
+    .news-anoucment p {
+        width: 100%;
+        padding-bottom: 14px;
+        background: none;
+        margin-top: 7px;
+    }
+    .introduction a {
+        width: 80px;
+        height: 80px;       
+    }
+    .ab-right li img {
+        align-self: flex-start;
+        width: 32px;
+    }
+    .abr h3 {
+        margin: 0;
+        font-size: 24px;
+    }
+    .abr {
+        margin-left: 23px;
+        font-size: 16px;
+    }
+    .ab-right li img {
+        align-self: flex-start;
+        width: 32px;
+        margin-top: 7px;
+    }
+    .membersh li {
+        width: 100%;       
+    }
+    .heading {
+        font-size: 25px;
+    }
+    .caho-slider .owl-prev, .caho-slider .owl-next {
+        top: auto;
+        bottom: 0;
+    }
+    .ab-rightaward li {
+        width: 100%;
+        padding: 0 35px;
+        border-right: 1px solid #ecebeb;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #ecebeb;
+    }
+    .know-left ul{
+        flex-wrap: wrap;
+    }
+    .know-left ul li {
+        width: 100%;
+    }
+    .media {
+        width: 100%;
+    }
+    .news {
+        width: 100%;
+        padding-left: 20px;
+    }
+    .media-news::after {
+        background: #9e509c;
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .news {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .caho-connect li img {
+        width: 20px;
+        height: auto;
+        align-self: center;
+    }
+    .caho-connect li p {
+        margin-left: 15px;
+        font-size: 15px;
+    }
+    .caho-connect li {
+        border-right: 0;
+        padding-right: 18px;
+        margin-right: 0;
+        margin-bottom: 15px;
+        width: 100%;
+        margin: 1% 0;
+    }
+    .caho-adrs , .caho-call , .caho-mail {        
+        width: 100%;
+        margin-bottom: 13px;
+    }
+    .bordertop p {
+        font-size: 12px;
+        width: 100%;
+        text-align: center;
+        margin: 7px;
+    }
+    .hemburger-menu {
+        right: 0;
+        width: 30px;
+    }
+    .menu-sec .button {       
+        right: 50px;      
+    }
+    .test-left {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        border: 0;
+    }
+    .newlet input {
+        width: 58%;
+        padding: 13px;
+    }
+    .newlet button{
+        width: 38%;
+    }
+    .inner-banner-sec.image .container {
+        position: relative;
+        top: 0;
+        left: 0;
+        right: 0;
+        color: #fff;
+        transform: none;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .banner-txt {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .inner-banner-sec.image .container .heading {
+        line-height: 1;
+        margin: 0;
+        width: 100%;
+    }
+    /* .flex-view.fc {
+        justify-content: right;
+        width: 100%;
+        text-align: right;
+    } */
+    .inner-banner-sec.image .container .heading {
+        line-height: 1;
+        margin: 0;
+        width: 48%;
+        padding: 0;
+        margin: 0;
+        text-align: left;
+        padding-top: 13px;
+        font-size: 17px;
+    }
+    .inner-banner-sec.image {      
+        margin-top: 79px;
+    }
+    .about-page .who-we-are .left {
+        max-width: 100%;
+        order: 2;
+    }
+    .about-page .who-we-are .right {
+        max-width: 100%;
+        margin-bottom: 33px;
+    }
+    .heading.small {
+        font-size: 22px;
+    }
+    .objective-sec .inner-sec .left, .objective-sec .inner-sec .right {
+        width: 100%;
+        padding: 20px;
+        border-bottom: solid 1px #ddd;
+        border-right: 0 !important;
+    }
+    .objective-sec .inner-sec:before, .objective-sec .inner-sec:after{
+        display: none;
+    }
+    .governing-commitee-sec .member-sec li {
+        width: 100% !important;
+        margin-top: 25px;
+        padding: 10px;
+        background: #fff;
+        margin-right: 5%;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 9%);
+        margin: 1% 0;
+    }
+    .governing-commitee-sec .member-sec .bottom h4 {
+        margin: 0;
+        font-size: 17px;
+        font-weight: normal;
+    }
+    .governing-commitee-sec .member-sec .bottom span {
+        font-size: 35px;        
+    }
+    .contact-top .heading {
+        font-size: 30px;
+    }
+    button.btn-submit {       
+        padding: 12px 40px;       
+    }
+    .contact-top .left .half {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .governing-commitee-sec .tabing-link a{
+        font-size: 15px;
+        width: 33%;
+    }
+    .governing-commitee-sec .tabing-link:before{
+        display: none;
+    }
+    .pr-trined .heading {
+        color: #000;
+        padding-bottom: 15px;
+    }
+    .fees h3 {      
+        font-size: 23px;
+    }
+    .fees li {
+        margin: 1%;
+        width: 100%;
+    }
+    .fees h6 {      
+        font-size: 23px;        
+    }
+    a.register {
+        margin-top: 25px;
+        font-size: 18PX;
+        padding: 10px;
+        width: 150px;
+    }
+    .fees li h4 {
+        font-size: 25px;
+    }
+    .down-brc a {       
+        padding: 17px;        
+    }
+    .feed-txt {
+        width: 100%;        
+    }
+    .feed-img {
+        width: 175px;
+        display: block;       
+        margin: 0 auto;
+    }
+    .pur-dur {      
+        padding: 0;
+    }
+    .purpose {
+        width: 100%;
+        background: #01addd;
+        padding: 28px 4%;
+    }
+    .pur-dur .container{
+        width: 100%;
+        padding: 0;
+    }
+    .pur-dur:after{
+        display: none;
+    }
+    .duration {
+        width: 100%;
+        padding: 15px;
+    }
+    .benefit {
+        width: 100%;
+    }
+    .steps {
+        width: 100%;
+        margin-top: 21px;
+    }
+    .dur-left {
+        align-self: center;
+        width: 100%;
+    }
+    .duration-div:after{
+        display: none;
+    }
+    .dur-right {
+        width: 100%;
+        background: #9e4f9e;
+        margin-top: 23px;
+        padding: 10px;
+    }
+    .dur-left h3 {
+        font-size: 25px;
+        font-weight: 500;
+        color: #000;
+        margin-bottom: 8px;
+    }
+    .modules-accrding h3 {
+        background: #f6f6f6;
+        padding: 15px;
+        font-weight: 400;
+        color: #000;
+        cursor: pointer;
+        margin-bottom: 5px;
+        font-size: 15px;
+        position: relative;
+        border: 1px solid #f6f6f6;
+        padding-right: 64px;
+    }
+    .modules-accrding h3:after {
+        top: 12px;
+        transition: all ease 0.6s;
+        background-size: 30px !important;
+    }
+    .modules-accrding h3:after {        
+        width: 30px;
+        height: 30px;       
+        background-size: 100% 100% !important;
+    }
+    .dur-right .img {
+        width: 100px;
+    }
+    .dtxt {
+        color: #fff;
+        font-size: 19px;
+        width: calc(100% - 120px);
+        align-self: center;
+    }
+    .modules , .duration-div {
+        padding: 30px 0;
+    }
+    .mod-txt  p {       
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .feesbox div {
+        background: #01a9d8;
+        color: #fff;
+        padding: 14px;
+        margin: 5px;
+        width: 100%;
+        text-align: center;
+    }
+    .feesbox div h3 {
+        color: #fff;
+        font-size: 29px;
+        margin-bottom: 7px;
+    }
+    .feesbox div h5 {
+        color: #fff;
+        font-size: 20px;
+    }
+    .bulkdiscount {
+        background: #f2f2f2;
+        padding: 22px;
+        color: #9e4f9e;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 24px;
+        margin-bottom: 37px;
+    }
+    .fees-link a {
+        background: #01addd;
+        color: #fff;
+        padding: 14px;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 18px;
+        margin-right: 15px;
+        width: 43%;
+        text-align: center;
+    }
+    .fees , .knodl-part{
+        padding: 30px 0;
+    }
+    .knodl-part h3 {
+        font-size: 27px;      
+    }
+    .wid h4 {
+        width: 100%;
+        font-size: 22px;
+        margin-top: 13px;
+    }
+    .faq-accrd h3 {      
+        font-size: 15px;      
+        padding: 16px;
+        padding-right: 60px;
+    }
+    .faq-accrd h3:after {
+        background: url(../images/downar-bl.png) no-repeat 0 0;
+        content: "";
+        width: 43px;
+        height: 43px;
+        position: absolute;
+        right: 0;
+        top: 10px;
+        transition: all ease 0.6s;
+        background-size: 30px !important;
+    }
+    .faq-accrd li.active h3:after {
+        transform: rotate(180deg);
+        top: 0;
+        right: 14px;
+    }
+    .mt-20 {
+        margin-top: 0;
+    }
+    .halloffame h3{
+        font-size: 17px;
+    }
+   
+}
+
+@media screen and (max-width:600px) {
+    .membership_section .mem_icon img {
+        width: 40px;
+    }
+    .stnding-bnner-img{
+        margin-right: 0px !important;
+    }
+    .standing-commetie-head .heading {
+        line-height: 36px;
+    }
+    .role-cqp .container{
+        flex-wrap: wrap;
+    }
+    .cqp-left, .cqp-right{
+        width: 100%;
+        padding-bottom: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .cqp-membship-section .faculty-fees-box-wrap{
+        flex-wrap: wrap;
+        margin-bottom: 0 !important;
+    }
+    .cqp-membship-section .faculty-fees-box-wrap .faculty-fees-item-box{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .cqp-membship-section a.default-btn.blue{
+        margin-top: 10px;
+    }
+    .caho_academy_section.cqp-branding .width_80{
+        padding: 50px 20px 0px;
+    }
+    .caho_academy_section.cqp-gallery .width_80{
+        padding: 0px 20px 0px 20px;
+    }
+    .cqp-logo{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .cqp-logo img{
+        margin: 0 auto;
+    }
+    .cqp-logos .owl-next {
+        left: -13px;
+    }
+    .caho_academy_section.cqp-gallery .width_20 {
+        padding: 10px 0px 50px 40px;
+    }
+    .view-all-btn{
+        bottom: 23px;
+    }
+    .role-cqp::after{
+        display: none;
+    }
+    .role-cqp{
+        padding-top: 0px;
+    }
+    .membership-process ul li{
+        padding: 15px !important;
+        margin: 10px !important;
+        margin-bottom: 26px !important;
+    }
+    .membership-process ul li:before{
+        width: 10px !important;
+        height: 10px !important;
+        top: 9px !important;
+        right: 10px !important;
+    }
+    .membership-process ul li.active::before{
+        font-size: 16px !important;
+        top: 10px;
+    }
+    .membership-process ul li:after{
+        right: -180%;
+    }
+    .main-membership, .main-info-row, .pay-section, .admin-stats{
+        flex-wrap: wrap;
+    }
+    .main-membership li, .dash-col, .member-download, .payment-det-sec, .pre-left, .pre-right, .final-review-section ul li, .member-statics{
+        width: 100% !important;
+    }
+    .memd-img img {
+        width: 100%;
+    }
+    .mem-ico img {
+        width: auto;
+    }
+    .join-txt {
+        padding: 20px;
+    }
+    .user-mem, .payment-det-sec{
+        margin-bottom: 15px;
+    }
+    .left.active{
+        position: fixed;
+        background: #fff;
+        bottom: 0;
+        top: 0;
+        z-index: 111;
+    }
+    .dash-right{
+        padding-left: 70px !important;
+    }
+    .side-active .membership-user-info.fixed{
+        margin-left: 0 !important;
+        z-index: 111;
+    }
+    div#calendar{
+        width: 100% !important;
+    }
+    .user-info{
+        display: none;
+    }
+    .notification-section ul li{
+        display: block !important;
+    }
+    .notification-icon, .member-statics, .membership-process{
+        margin-bottom: 10px;
+    }
+    .check-multi{
+        width: 47%;
+    }
+    .membership-heading{
+        font-size: 18px !important;
+    }
+    .activity-table table, .activity-table .table-head{
+        min-width: 500px;
+    }
+    .membership-form .inner-box{
+        padding: 20px;
+    }
+    .form-type-page .inner-sec{
+        margin-top:0 !important;
+    }
+}
+
+    

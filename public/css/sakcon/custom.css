@@ -1,0 +1,15 @@
+.cahotech-deligate-form .d-form-outer {
+    width: 100%;
+}
+
+.error {
+    color: red;
+}
+
+.file_upload input[type='file'] {
+    border: none;
+    padding: 0;
+}
+.file_upload.cv_upload>.upfile1 {custom.css
+    width: 100%;
+}

@@ -1,0 +1,1353 @@
+@media screen and (max-width:1100px)
+{
+    .about_section .width_25 {       
+        padding: 40px 20px 70px 20px;       
+    }
+    .banner_slider .banner-txt {
+        max-width: 600px;
+        padding-left: 18px;
+    }
+    .banner_slider .slick-arrow.slick-next , .banner_slider .slick-arrow.slick-prev{
+        display:none !important;
+    }
+    .about_section .width_75 {
+        background: #effbfb;
+        padding: 40px 0px 40px 00px;
+    }
+    .caho_academy_section .width_20 .heading span {      
+        display: inline-block;
+        margin-left: 0;
+    }
+    .heading span {
+        display: inline-block;
+        font-weight: 400;
+        margin-left: 14px;
+    }
+    .card-text p {
+        min-height: 80px;
+    }
+    .heading {
+        font-size: 47px;
+        color: #fff;
+        line-height: 70px;
+        font-weight: 700;
+        margin-bottom: 10px 0;
+        width: 100%;
+    }
+    .membership_section .width_75 {
+        padding: 30px 10px 20px;
+        background: #9e509d;
+        color: #fff;
+    }
+    .caho_academy_section .width_80 {
+        padding: 40px 10px 30px 0px;
+    }
+    .about_section .fea_list li {
+        width: 49%;
+        display: inline-block;
+        border-bottom: 2px solid #e3eeee;
+        border-right: 2px solid #e3eeee;
+        padding: 20px 13px;
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .caho_academy_section .width_20 {      
+        padding: 40px 40px 40px 30px;
+    }
+    .annual_events .width_25 {
+        padding: 40px 00px 20px 10px;
+    }
+    .annual_events .event_right {
+        padding: 40px 0px 20px 20px;
+    }
+    .awards_section .width_25 {
+        background: #9e509d;
+        padding: 40px 40px 40px 10px;
+    }
+    .awards_section .award_content {
+        padding: 20px 10px 20px 20px;
+    }
+    .library_section .width_25 {       
+        padding: 40px 10px 40px 40px;       
+    }
+    .media_news_section .media_part {       
+        padding: 40px 40px 40px 40px;
+    }
+    .library_section .width_75 .lib_content {
+        padding: 20px 20px 20px 25px;
+    }
+    .media_news_section .news_part {
+        padding: 40px 10px 40px 40px;
+    }
+    .resource_section .res_list li.rl_tab {
+        width: calc(100% / 5);
+    }
+    .subs_feedback_section .subscribe_part {
+        padding: 20px 20px 20px 020px;
+    }
+    .testimonial_section .width_25 {       
+        padding: 40px 10px 40px 40px;
+    }
+    .testi_slider {       
+        background-size: 100% 100% !important;
+    }
+    .navbar-nav  li ul li a {      
+        font-size: 11px;
+    }
+    .caho_academy_section .width_80 .acaImg_outer h4 {  
+        font-size: 14px;
+        text-transform: none;
+        font-weight: 500;       
+    }
+    .testimonial_section .testi_slider .slick-arrow.slick-next {      
+        bottom: 0px;
+        left: -58px;
+        top: auto;
+        transform: rotate(90deg);
+    }
+    .testimonial_section .testi_slider .slick-arrow.slick-prev {      
+        bottom: 49px;
+        left: -56px;
+        top: auto;
+        transform: rotate(90deg);
+    }
+    header .navbar .navbar-nav .nav-link {
+        padding-left: .4rem;
+        padding-right: .4rem;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 11px;
+    }
+    .patron-sec .left {
+        width: 100%;
+        padding-top: 35px;
+        margin-bottom: 10px;
+    }
+    .patron-sec .right {
+        width: 100%;       
+    }
+    .mem-cate li {       
+        width: 24%;
+    }
+    .tabbingslider {
+        width: 100%;
+        position: relative;
+        overflow-x: auto;
+        top: -65px;
+        padding-bottom: 11px;
+        margin-bottom: -102px;
+    }
+    .academy-data ul.tabbing {
+        position: relative;
+        top: -0px;       
+        margin-bottom: 0;
+        width: 100%;
+    }
+    .academy-data ul.tabbing li a {      
+        display: block;
+        padding: 11px 8px;
+    }   
+    .academy-data ::-webkit-scrollbar {
+        height: 5px;
+      }
+      .academy-data .inner-tab li .btn-sec a {      
+        padding: 10px 17px;      
+    }
+    .half-fame li {
+        width: 32%;
+        position: relative;
+        margin-right: 0;
+        margin-bottom: 60px;
+        margin-right: 1%;
+    }
+    .tssldier .item{
+        padding: 0 80px;
+    }
+    .testimonslid .owl-next {
+        left: 10px;      
+    }
+    .testimonslid .owl-prev {
+        right: 10px;     
+    }
+    .slick-next {       
+        right: 0;
+    }
+    .slick-prev {       
+        left: 0;        
+    }
+    .knodl-part h3 {      
+        font-size: 38px;
+        color: #000;
+        font-weight: 500;
+        width: 380px;
+    }
+    .wid {
+        width: calc(100% - 420px);
+    }
+    .wid h4 {       
+        width: 368px;
+    }
+      
+    .tssldier .item {
+        padding: 0 037px;
+    }
+    .fac-sl .item h3 {
+        font-size: 16px;     
+    }
+    .fac-sl .item h5 {
+        font-size: 15px;      
+        line-height: 21px;
+    }
+    .memberslider .slick-arrow.slick-prev{
+        transform: none;
+    }
+     
+}
+@media screen and (max-width:800px)
+{
+    .navbar-nav li ul ul {
+        left: 0;
+        top: 0;
+    }
+    .half-fame li {
+        width: 48%;
+    }
+    .border-right.border-right-none-res{
+        border-right:0 !important;
+    }
+    .banner_slider h2 span {
+        font-size: 49px;
+        font-weight: 700;
+        line-height: 67px;
+    }
+        .show-res{
+        display:block;
+    }
+    .none-res{
+        display:none;
+    }
+    .banner_slider h3 {
+        font-size: 40px;
+        font-weight: 700;
+        color: #00c2cb;
+    }
+    .banner_slider .banner-txt {
+        max-width: 94%;
+        padding-left: 3%;
+        margin-left: 0;
+    }
+    .banner_slider h2 {
+        font-size: 36px;
+        font-weight: 500;
+        line-height: 34px;
+        color: #353030;
+    }
+    .light-text{
+        color: #000;
+        padding-bottom: 0;
+        border: 0;
+    }
+    .navbar-collapse {
+        width: 300px;
+        position: absolute;
+        top: 74px;
+        right: 4px;
+        background: #fff;
+        z-index: 99;
+    }
+    .navbar-collapse li {
+        text-align: left;
+        width: 100%;
+        padding: 6px;
+        border-bottom: 1px solid #ccc;
+    }
+    .video_section .inner_content #play_button {
+        width: 80px;
+    }
+    .awards_section .width_25 p {
+        color: #f5eef4;
+        width: 100%;
+    }
+    .awards_section .award_content {
+        padding: 20px;
+    }
+    .heading {
+        font-size: 40px;
+    }
+    .awards_section .width_25 {
+        padding: 20px;
+    }
+    .media_news_section .media_part {
+        padding: 24px;
+    }
+    .resource_section .res_list li.rl_tab {
+        width: calc(100% / 3);
+    }
+    .heading {
+        font-size: 35px;
+    }
+    .testimonial_section .width_25 {
+        padding: 20px 20px 20px 20px;
+    }
+    .foot_add.row{
+        margin:0;
+        padding:0 20px;
+    }
+    .about_section .width_25 {
+        padding: 20px;
+    }
+    .heading{
+        margin:0;
+    }
+    .caho_academy_section .width_20 {
+        padding: 20px;
+    }
+    .annual_events .width_25 {
+        padding: 20px;
+    }
+    .footer .foot_add li {
+        padding-left: 30px;
+        margin-bottom: 14px;
+    }
+    .footer .foot_add_sec {
+        padding: 40px 0 0 0;
+    }
+    .navbar-toggler {
+        background: url(../images/menu-icon.png) 0 0 no-repeat;
+        padding: 20px;
+        border: 0;
+        cursor: pointer;
+    }
+    .join_caho_cta .button a{       
+        margin: 10px 0;
+        display: inline-block;
+    }
+    .inner-banner-sec.image .container {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+        color: #fff;
+        transform: none;
+        display: flex;
+        flex-wrap: wrap;
+        transform: translateY(-50%);
+        justify-content: center;
+    }
+    .inner-banner-sec.image .container .container{
+        top: 0;
+    }
+    .inner-banner-sec .container .breadcrumb {
+      
+        justify-content: center !important;
+    }
+    .inner-banner-sec.image .container .heading {
+        line-height: 1;
+        padding: 0px 0 0px;
+        width: 100%;
+        text-align: left;
+        font-size: 30px !important;
+        text-align: center;
+        margin-bottom: 0 !important;
+        padding-bottom: 0;
+    }
+    .fm-slider .image {
+        height: auto;
+    }
+    .governing-commitee-sec .heading {
+        width: 100%;
+    }
+    .breadcrumb {
+        width: 48%;
+        text-align: right;
+        justify-content: flex-end !important;
+        display: flex;
+        align-self: center;
+        padding-right: 0;
+    }
+    .programme-banner .breadcrumb {
+        justify-content: flex-start !important;
+    }
+    .event-page .event-cat li {
+        width: 48%;
+        margin: 33px 1%;
+    }
+    .event-page .event-cat li h4, .event-page .event-cat li h6 {       
+        font-size: 17px;
+    }
+
+    span.dr {
+        position: absolute;
+        right: 0;
+        z-index: 999999;
+        background: #000;
+        color: #fff;
+        /* padding: 11px; */
+        top: 0;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        line-height: 31px;
+    }
+    span.dr::after {
+        content: "+";
+        position: absolute;
+        right: 0;
+        left: 0;
+    }
+    span.dr.active::after {
+        content: "-";        
+    }
+    span.dr.active{
+        background: #9b1c53;
+    }
+    .navbar-nav  li ul {
+        position: relative;
+        width: 100%;
+        background: #fff;
+        display: none;
+        margin: 0;
+    }
+    .navbar-nav li:hover > ul{
+        display: none;
+    }
+    .navbar-nav li ul li:last-child a , .navbar-nav li ul li{
+        border-bottom: 0;
+        font-size: 13px;
+    }
+    .navbar-nav li ul li{
+        padding: 0;
+    }
+    .governing-commitee-sec .member-sec.five-view li, .governing-commitee-sec .member-sec.five-view li:nth-of-type(4n) {
+        width: 23%;
+        margin-right: 1.3%;
+    }
+    .banner-txt {
+        padding: 12px 0;
+    }
+    .membership-page li {
+        width: 100%;
+        background: #F6F6F6;
+        padding: 23px;
+        margin: 1% 0;
+    }
+    .mem-cate li {
+        width: 47%;
+        margin-bottom: 30px;
+        margin: 1%;
+    }
+    .mem-cate li img{
+        width: 100%;
+    }   
+    .academy-data .inner-tab li .blue-sec h4, .programme-banner .right li h4 {      
+        font-size: 24px;      
+    }
+    .academy-data .inner-tab li .blue-sec h4 span, .programme-banner .right li h4 span {       
+        font-size: 22px;        
+    }
+    .academy-data .inner-tab li {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+    .banner_slider .banner-inside {
+        width: 100%;
+        transform: none;
+        top: 0;
+    }
+
+    .wid {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+    .wid img{
+        width:100px;
+    }
+    .wid h4 {
+        width: 368px;
+        font-size: 26px;
+    }
+    .knodl-part h3 {
+        font-size: 30px;
+        color: #000;
+        font-weight: 500;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .feesbox div {       
+        margin: 2%;
+        width: 45%;
+      
+    }
+    .small_heading {
+        font-size: 23px;       
+    }
+    .media_news_section .news_part {
+        padding: 40px 10px 40px 10px;
+    }
+    .event-page .event-cat li .detail .link {       
+        margin-top: 0;
+    }
+    .half-fame li{
+        margin-bottom: 20px;
+    }
+    .main-membership-sec .data {
+        width: 45%;
+    }
+    .new-row {
+        flex-wrap: wrap;
+    }
+  
+}
+@media screen and (max-width:700px)
+{
+    .cahotech-detail li {
+        width: 100%;
+        margin: 1% 0;
+        text-align: center;
+    }
+    li.static-link{
+        display:none;
+    }
+    .banner_slider .banner-inside {
+        position: relative;
+        padding: 20px 0;
+    }
+    .banner_slider h2 br{
+        display:none;
+    }
+    .banner_slider h2 span {
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 46px;
+    }
+    header.fixed .navbar-brand img {
+        width: 120px;
+        transition: all 0.5s ease;
+    }
+    .navbar-toggler {
+        background: url(../images/menu-icon.png) 0 0 no-repeat;
+        padding: 14px;
+        border: 0;
+        cursor: pointer;
+        width: 20px;
+        background-size: 27px;
+    }
+    .news_sec .news_head:after{
+        display:none;
+    }
+    .news_sec .news_head {
+        background: #9b1c53;
+        position: relative;
+        padding-left: 33px;
+    }
+    .video_section .inner_content #play_button {
+        width: 80px;
+    }
+    .news_sec {
+        overflow: hidden;
+    }
+    .navbar-collapse {
+        top: 52px;
+    }
+    .nav-link {
+        display: block;
+        padding: .2rem .1rem;
+        font-size: 12px;
+    }
+    header .navbar .navbar-nav .nav-link {
+        padding-left: 10px;
+    }
+    section.caho_academy_section , .membership_section {
+        overflow: hidden;
+    }
+    .col-12 .col-12 {
+        padding:0;
+    }
+    .mem_icon {
+        margin-bottom: 15px;
+    }
+    .membership_section .width_75 .mem_list li{
+        border-right:0;
+    }
+    .membership_section .width_75 .mem_list li:nth-of-type(3), .membership_section .width_75 .mem_list li:nth-of-type(4) {
+        border-bottom: 1px solid #b173b1;
+    }
+    .caho_academy_section .width_20 {
+        padding: 0 20px;
+    }
+    .caho_academy_section .width_80 .acaImg_outer h4 {
+        padding: 10px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .aca_progrmas {
+        margin-bottom: 0;
+    }
+    .annual_events .event_right .col-12 {
+        padding: 20px;
+    }
+    .heading span {
+        display: inline-block;
+        font-weight: 400;
+        margin-left: 10px;
+    }
+    .heading {
+        font-size: 26px;
+        line-height: normal;
+    }
+    .sub_heading {
+        font-size: 17px;
+        line-height: 25px;
+        margin-bottom: 18px;
+        font-weight: 600;
+        color: #353030;
+    }
+    .media_news_section .news_part .scroll_div {
+        margin-top: 21px;
+    }
+    /* .media_news_section .news_part .news_body {
+        position: absolute;
+        bottom: 0;
+        right: 20px;
+        left: auto;
+        background: #fff;
+        width: 100%;
+        max-width: 416px;
+        z-index: 999999999999;
+        padding: 20px;
+        padding: 20px 34px;
+    } */
+     .copyright_section .text-left, .copyright_section .text-right {
+        text-align: center !important;
+        font-size: 13px;
+    }
+    .navbar-light .navbar-brand {
+        display: inline-block;
+        width: 125px;
+    }
+    .banner_slider .heading {
+        font-size: 23px;
+        font-weight: 500;
+        color: #000;
+        margin-bottom: 0 !important;
+        line-height: normal;
+        margin-left: 0;
+    }
+    .banner_slider .heading span {
+        font-size: 22px;
+        font-weight: 400;
+        color: #fff;
+        margin-bottom: 8px !important;
+        line-height: normal;
+        margin-left: 0;
+        padding: 10px 17px;
+        margin-top: 6px;
+        display: block;
+    }
+    .light-text {
+        font-size: 20px;
+        margin-bottom: 5px;
+        font-weight: 500;
+    }
+  
+    .banner_slider p{
+        color: #000;
+    }
+    .banner_slider {
+        margin-top: 57px;
+    }
+    .about_section .fea_list li {        
+        padding: 20px 15px;
+        font-size: 17px;
+        text-align: left;
+    }
+    .about_section .fea_list li h1 {
+        color: #353030;
+        font-size: 28px;
+        margin-bottom: 8px !important;
+    }
+    .fea-img {
+        width: 44px;     
+    }
+    .caho_academy_section .heading {     
+        margin-top: 27px;
+    }
+    .caho_academy_section .row{
+        margin: 0;
+        padding: 0;
+    }
+    .aca_progrmas {
+        margin-bottom: 0;
+        width: 50%;
+        vertical-align: top;
+        margin: 0 !important;
+        padding: 6px;
+        text-align: center;
+    }
+    /* .heading {      
+        margin-top: 30px;
+    } */
+    .annual_events .event_left {
+        padding: 27px 15px 0 10px;
+    }
+    .media_news_section .news_part {
+        padding: 34px 10px 34px 10px;
+    }
+    .media_news_section .news_part .news_list li {      
+        margin-right: 0;     
+    }
+    .testimonial_section .t-text {
+        font-size: 18px;
+        color: #fff;
+        line-height: 25px;
+        letter-spacing: 0.3px;
+        font-weight: 200;
+        padding-right: 0;
+        margin-bottom: 29px;
+    }
+    .testimonial_section .testi_caption {       
+        padding: 25px;      
+    }
+    .testimonial_section .t-text {
+        font-size: 18px;
+        color: #fff;
+        line-height: 25px;
+        letter-spacing: 0.3px;
+        font-weight: 200;
+        padding-right: 0;
+        margin-bottom: 13px;
+        margin-top: 0;
+        max-height: 235px;
+        overflow-y: scroll;
+    }
+    .news_text {
+        padding: 28px !important;
+    }
+    .news_sec .news_head {      
+        font-size: 14px;
+    }
+    .caho_academy_section .h-100 , .awards_section .h-100 , .award_content .col-12{
+        padding: 0 !important;
+    }
+    .library_section .width_75 .lib_content {
+        padding: 20px 20px 20px 20px;
+    }
+    .media_news_section .media_part {
+        padding: 20px;
+    }
+    .resource_section .res_list li.rl_tab {
+        width: calc(100% / 2);
+    }
+    .resource_section .res_list li:nth-child(2n){
+        border-right: 0;
+    }
+    .subs_feedback_section .feedback_part {
+        background: #00c2cb;
+        padding: 20px 20px 20px 20px;
+    }
+    .caho-social {
+        align-self: center;
+        margin-top: 20px;
+        margin-bottom: 11px;
+    }
+    .pad-none-res{
+        padding-left: 0 !important;
+    }
+    .about_section .fea_list li:first-child , .about_section .fea_list li:nth-child(3){
+        padding-left: 0 !important;
+    }
+    .testimonial_section .testi_heading h2 {
+        transform: none;
+        font-size: 26px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: 700;
+        width: 100%;
+        text-align: left;
+        padding: 25px 22px;
+    }
+    .breadcrumb {      
+        margin-top: 0 !important;
+        padding-bottom: 0;
+    }
+    .inner-banner-sec.image .container .heading {      
+        margin: 10px 0 0px;    
+    }
+    .event-page .event-cat li {
+        width: 100%;
+        margin: 15px 0%;
+    }
+
+    .inner-banner-sec.image .container .heading {
+        margin: 0px 0 0px !important;
+    }
+    .breadcrumb {
+        margin-top: 0 !important;
+        padding-bottom: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .inner-banner-sec.image {
+        margin-top: 59px;
+    }
+    .breadcrumb {
+        width: 100%;
+        padding: 0;
+        margin-top: 10px !important;
+    }
+    .about-page .who-we-are p, .justify-text p {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: justify;
+    }
+    .objective-sec .inner-sec-full {
+        max-height: 530px;
+        margin-top: 22px;
+    }
+    .objective-sec .inner-sec .left, .objective-sec .inner-sec .right{
+        padding-left: 0;
+    }
+    .patron-sec .heading.small {
+        font-size: 22px;
+        margin-bottom: 0 !important;
+        padding-bottom: 0;
+    }
+    .patron-sec .right li .detail {       
+        min-height: inherit;      
+    }
+    .governing-commitee-sec .heading{
+        margin-bottom: 20px !important;
+    }
+    .bordertop p {       
+        margin: 3px;
+    }
+    .menu-sec .button a, .default-btn{
+        display: inline-block;
+    }
+    .governing-commitee-sec .member-sec li {
+        width: 47% !important;
+        margin-top: 25px;
+        padding: 10px;
+        background: #fff;
+        margin-right: 5%;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 9%);
+        margin: 1% 4px;
+    }
+    .governing-commitee-sec .member-sec .fm-slider li {
+        width: 100% !important;
+    }
+    .patron-sec .right .owl-prev, .patron-sec .right .owl-next, .member-sec .fm-slider .owl-prev, .member-sec .fm-slider .owl-next {       
+        left: -10px;
+    }
+    .patron-sec .right .owl-next, .member-sec .fm-slider .owl-next {
+        right: -11px;
+        left: auto;
+    }
+    .objective-sec li {
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 23px;
+        background: url(../images/icon-arrow.jpg) no-repeat 0px 8px;
+        padding-left: 25px;
+        text-align: justify;
+    }
+    .patron-sec .right {       
+        padding: 10px 0;
+    }
+    .governing-commitee-sec .heading {
+        width: 100%;
+    }
+    .fm-slider .image {
+        height: auto;
+    }
+    .governing-commitee-sec .tabings-link a {
+        background: #7674C8;
+        padding: 13px 10px;
+        color: #fff;
+        width: 32%;
+        position: relative;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .membership-page li li {
+        width: 100%;
+        padding: 0;
+        font-size: 12px;
+    }
+    .mem-cate li h3 {
+        width: 100%;
+        padding: 5px;
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 32px;
+        top: 24px;
+    }
+    .banner-txt h1 {
+        font-size: 24px;
+        text-shadow: 1px 1px 5px rgb(0 0 0 / 40%);
+        letter-spacing: 1px;
+        width: 100%;
+        margin-bottom: 6px;
+    }
+    .m-icon {
+        width: 55px;
+        margin-top: 10px;
+    }
+    .m-txt {
+        width: calc(100% - 75px);
+    }
+    .mem-cate li {
+        width: 100%;
+        margin-bottom: 30px;
+        margin: 1%;
+    }
+    .mem-cate li h3 {
+        width: 100%;
+        padding: 5px;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 32px;
+        top: 39px;
+    }
+    .mem-cate h3.text-center {
+        color: #9E4F9E;
+        font-size: 23px;
+        margin-bottom: 23px;
+    }
+    .healthcare:after {
+        width: 100%;
+    }
+    .healthc-left {
+        width: 100%;
+       
+    }
+    .health-right {
+        width: 100%;
+        color: #fff;
+    }
+    .associat-member:after {       
+        width: 100%; 
+        background: #01c1cc;      
+    }
+    .associat-member .healthc-left {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .healthc-left {
+        width: 100%;
+        order: 2;
+        padding-top: 0;
+    }
+    .anyquery:after{
+        display: none;
+    }
+    .anyquery li:first-child {
+        background: none;
+        color: #000;
+        padding: 20px 20px 20px 0;
+        font-size: 21px;
+        min-width: 322px;
+    }
+    .anyquery li img {
+        align-self: center;
+        height: auto;
+        width: 27px;
+    }    
+    .anyquery li p {
+        align-self: center;
+        margin-left: 10px;
+    }
+    .member-institute li {
+        width: 48%;
+        margin-bottom: 14px;
+    }
+    .memberlink a {
+        background: #fff;
+        color: #9E4F9E;
+        padding: 9px 6px;
+        margin-right: 8px;
+        width: 47%;
+        text-align: center;
+        margin-bottom: 9px;
+        margin-top: 9px;
+        text-transform: uppercase;
+        font-size: 14px;
+        display: inline-block;
+    }
+    .health-right .content {
+        padding: 30px 0;
+    }
+    .inner-banner-sec.image .container .heading{
+        width: 100%;
+        font-size: 22px;
+    }
+    .inner-banner-sec h4{
+        font-size: 20px;
+    }
+    .inner-banner-sec h4 {
+        font-size: 18px;
+        margin-top: 17px;
+    }
+    .accordion>li em {
+        position: absolute;
+        left: 13px;
+        font-size: 13px;
+        /*margin-right: 54px;*/
+    }
+    .accordion a:after {
+        position: absolute;
+        right: 0;       
+        width: 20px;
+        height: 44px;
+        text-align: center;
+        /* background: #fff; */
+        /* border-radius: 50%; */
+        line-height: 44px;
+        font-size: 24px;
+        font-weight: 400;
+        color: #c9c9c9;
+    }
+    section.form-type-page .inner-sec ul.full-form li {
+        width: 100%;       
+    }
+    .accordion {
+        overflow-anchor: none;
+        margin-bottom: 40px;
+    }
+    .tabbingslider {       
+        margin-bottom: -78px;
+    }
+    .academy-data .inner-tab li .product-name {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 23px;
+        min-height: inherit;
+    }
+    .academy-data .inner-tab li .blue-sec h4, .programme-banner .right li h4 {
+        font-size: 20px;
+    }
+    .academy-data .inner-tab li .blue-sec h4 span, .programme-banner .right li h4 span {
+        font-size: 18px;
+    }
+    .academy-data .inner-tab li .btn-sec a {
+        padding: 10px 17px;
+        margin-bottom: 9px;
+    }
+    .academy-data .inner-tab li .blue-sec img, .programme-banner .right li img {
+        width: auto;
+        max-width: 50px;
+    }
+    .academy-data .inner-tab li {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .black-heading{
+        font-size: 25px;
+    }
+    .author{
+        width:100%
+    }
+    .half-fame li {
+        width: 100%;
+    }
+    .half-fame li h3 {
+        font-size: 18px;      
+    }
+    .contact-top .right li {
+        width: 100%;
+        margin-top: 35px;
+    }
+    .date {      
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .fea-txt {
+        width: calc(100% - 60px);
+        display: inline-block;
+        margin-top: 0;
+    }
+    .membership_section .width_75 .mem_list li {      
+        padding: 15px 10px;        
+    }
+    .about_section .fea_list li h1 span {        
+        margin-left: 0;
+    }
+    img.show-mob{
+        display: block;
+    }
+    img.show-desk{
+        display: none;
+    }
+    .col-lg-8.col-md-12.cl-sm-6.col-12.width_75 {
+        order: 2;
+    }
+    .patron-sec .right li .detail {      
+        padding-right: 0px;    
+        text-align: center;  
+    }
+    .patron-sec .right li .detail .link {
+        position: relative;
+        width: 42px;
+        right: 0;
+        left: 0;
+        margin: auto;
+        margin-bottom: 16px;
+    }
+    .patron-sec .right li .detail .name {
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .training-programs-page.academy-data ul.tabbing li a {
+        padding: 12px 15px;       
+    }
+    .heading {
+        font-size: 22px !important;
+    }
+    .programme-banner .left {
+        width: 100%;
+        order: 2;
+    }
+    .programme-banner .right {
+        width: 100%;
+    }
+    .programme-banner .heading {      
+        margin-top: 7px;       
+    }
+    .academy-data ul.tabbing li {
+        margin-right: 2px!important;
+        font-size: 13px;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+    }
+    .forscroll-mob {
+        width: 100%;
+        overflow-x: scroll;
+    }
+    .knowledge-partner:before {      
+        width: 100%;       
+    }
+    .deimg {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .detxt {
+        width: 100%;
+        align-self: center;
+    }
+    .detxt h2 {
+        font-size: 22px;        
+    }
+    .event-page .event-cat li .image {       
+        min-height: inherit;
+        max-height: initial;       
+    }
+    .margintopup {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .margintopup.academy-data ul.tabbing {
+        margin-bottom: 10px;
+    }
+    button:focus{
+        outline: none;
+        border: 0;
+    }
+    .navbar-nav {       
+        max-height: 346px;      
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+    .checstatus li {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .index3 .banner-inside{
+        display: block !important;
+    }
+    .backtop{
+        display: none;
+    }
+    .testi_slider{
+        background: url(../images/test-bg-mob.jpg) no-repeat;       
+    }
+    section.learning-obj li {       
+        font-size: 15px;
+    }
+    .tssldier .item {
+        padding: 0 0px;
+    }
+    .caho-social {
+        align-self: center;
+        margin-top: 15px;
+    }
+    .event-page .event-cat li h4, .event-page .event-cat li h6 {
+        font-size: 15px;
+    }
+    .membership-det .container > div.d-flex, .mem-flex{
+        flex-wrap: wrap;
+        border: 0;
+    }
+    .healthcare-left, .membership-right{
+        width: 100%;
+        margin: 0;
+    }
+    .mem-common-det{
+        border-radius: 0;
+    }
+    .main-tile{
+        width: 100%;
+    }
+    .membership-det{
+        padding-left: 0px;
+        padding-right: 0;
+    }
+    .welcome-banner img{
+        height: 200px;
+    }
+    .welcome-content{
+        background: rgba(255, 255, 255, 0.7);
+        top: 0;
+    }
+    .welcome-content h2{
+        font-size: 20px;
+    }
+    .add-payment a{
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+    .aside-left ul li a{
+        padding: 15px;
+    }
+    .aside-left ul li.active .hover-img{
+        width: 28px;
+        height: 28px;
+    }
+    .log-time{
+        width: 55%;
+    }
+  .log-time h4{
+      font-size: 20px;
+  }
+    
+}
+
+@media screen and (max-width:600px){
+    .finalists ul li {
+        position: relative;
+        width: 80% !important;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+    .medication-management .heading, .promote-medication .heading, .competition .heading{
+        line-height: 32px;
+    }
+    ul.medication-safety-slide li{
+        width: 100%;
+    }
+    .medication-management .sub-heading, .promote-medication .sub-heading, .competition .sub-heading{
+        text-align: center;
+    }
+    .contest-finalist ul li {
+        width: 46% !important;
+    }
+    div#my-node {
+        /*max-width: 1038px;*/
+        /*overflow-x: scroll;*/
+        margin: 30px 0;
+    }
+    div#my-node table {
+        /*max-width: 1038px;*/
+        /*min-width: 1038px;*/
+    }
+    div#my-node table tr td table tr td table tr td {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    div#my-node table table table table tr td table tr td {
+        padding: 0 15px;
+    }
+    div#my-node table table table table tr td table tr td table tr td {
+        display: table-cell;
+        width: auto;
+        padding: 0;
+    }
+    div#my-node table table table table tr td table tr td table tr td img {
+        width: 6px;
+        margin-right: 10px;
+        margin-top: 7px !important;
+    }
+    div#my-node table table table table tr td img {
+        margin: 0 auto;
+    }
+    .withoutimage table table tr td {
+        display: block;
+        width: 100%;
+        padding: 0 15px;
+    }
+    .withoutimage table table tr td table tr td {
+        padding: 0;
+    }
+    div#my-node.withoutimage table table table table tr td table tr td {
+        display: table-cell;
+        width: auto;
+        padding: 0;
+    }
+    div#my-node.withoutimage table table table table tr td table tr td:first-of-type {
+        width: 15px;
+    }
+    div#my-node.withoutimage table table table table tr td table tr td img {
+        width: 6px;
+        height: 6px;
+    }
+    div#my-node.withoutimage img[alt="Corner design"] {
+        display: none;
+    }
+    .overview-bg .button-wrapper a {
+        margin-right: 10px;
+        padding: 7px 10px;
+    }
+    .social-share-wrapper {
+        top: 28px;
+        left: -65px;
+    }
+    .social-share-wrapper .caho-social li a {
+        padding: 9px;
+        margin: 0 5px;
+    }
+    .main-card {
+        width: 100%;
+        max-width: 100%;
+        min-width: 100%;
+        margin-bottom: 20px;
+    }
+    .pleadges-data-sec .new-row{
+        display: block !important;
+    }
+    .pleadges-data-sec .data{
+        width: 94% !important;
+        margin-bottom: 56px;
+    }
+    #myModal{
+        z-index: 999999;
+    }
+    #myModal .modal-dialog{
+        width: 85% !important;
+        margin: 20px auto !important;
+    }
+    .menu-sec .button a, .default-btn{
+        padding: 11px 14px;
+        margin-bottom: 14px;
+    }
+    .ictxt {
+        width: 90%;
+    }
+    .w-50{
+        width: 100% !important;
+    }
+}
+

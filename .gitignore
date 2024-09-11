@@ -17,6 +17,6 @@
 # /.fleet
 # /.idea
 # /.vscode
-/public
+# /public
 /vendor/encore
 # /.env
