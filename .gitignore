@@ -18,5 +18,5 @@
 # /.idea
 # /.vscode
 # /public
-/vendor/encore
+# /vendor/encore
 # /.env
