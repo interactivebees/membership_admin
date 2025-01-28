@@ -2,7 +2,6 @@
     $membershipCategories = DB::table('membership_type')->where('status',1)
                 ->orderBy('sort')->get();
 @endphp
-
 @extends('layouts.guest')
 @section('content')
 
